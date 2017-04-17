@@ -7,6 +7,8 @@ AdminDashboard is a front-end Admin Dashboard template based on Angular 2, Boots
 data you can see on graphs, charts and tables is mocked in Javascript so you can use the 
 backend of your choice with no limitations.
 
+<center><img width="1000" src="src/assets/img/admindashboard.png" border="0" /></center>
+
 ## List of Features
 
 * Angular 2
